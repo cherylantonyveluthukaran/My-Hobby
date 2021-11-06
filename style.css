@@ -1,0 +1,51 @@
+body{
+  text-align:center;
+  background:rgb(142,34,195);
+  background:linear-gradient(0deg, rgba(142,34,195,1)0%,rgba(253,45,173,1)100%);
+}
+img{
+  border-radius:50%;
+  width:100px;
+}
+h1{
+  text-shadow:2px 2px #18FFFF;
+  font-size:30px;
+}
+p{
+  font-size:18px;
+  color:#18FFFF
+}
+#bio{
+  padding:20px;
+  font-size:18;
+    text-align:center;
+}
+    
+    .menu{
+    list-style: none;
+        font-family: cursive;
+        float: right;
+        top: 10px;
+        right: 30px;
+        cursor: pointer;
+        color: black;
+    }
+.links{
+ float:left;
+ color:deeppink;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.links:hover{
+    background-color:blueviolet;
+}
+#myname{
+   font-family: 'Satisfy', cursive; 
+}
+.artcle:hover{
+    color: crimson;
+}
